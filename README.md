@@ -21,5 +21,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavv72&" alt="abhinavv72" /></p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/jaywyawhare/jaywyawhare/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/jaywyawhare/jaywyawhare/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/abhinavv72/abhinavv72/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/abhinavv72/abhinavv72/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
