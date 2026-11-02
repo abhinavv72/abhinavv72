@@ -1,6 +1,6 @@
 # Abhinav Srivastava
 
-Full stack developer building web applications, APIs, and practical AI tools. I work with Angular, TypeScript, .NET/C#, Python, and SQL, and I enjoy turning complex data and workflows into clear, reliable products.
+Software engineer building web applications, APIs, and practical AI tools. I work across Java, C++, C#, .NET, Angular, TypeScript, Python, and SQL. I enjoy turning complex data and workflows into clear, reliable products.
 
 ## Selected projects
 
@@ -11,13 +11,18 @@ Full stack developer building web applications, APIs, and practical AI tools. I 
 | [MediAssistML](https://github.com/abhinavv72/MediAssistML) | Applied machine learning project. |
 | JobPilot (local project) | Job discovery, profile based matching, dashboard, SQLite tracking, and guarded application automation. Public source is being prepared. |
 
-## What I work with
+## Engineering toolkit
 
-- **Frontend:** Angular, TypeScript, React
-- **Backend:** .NET/C#, Python, REST APIs
-- **Data and delivery:** SQL, MySQL, SQLite, Git, Docker
+- **Languages:** Java, C++, C#, TypeScript, Python, SQL
+- **Web and APIs:** Angular, React, .NET, REST APIs, FastAPI
+- **Data and delivery:** MySQL, SQLite, Git, Docker
 - **AI:** LLM assisted workflows and machine learning
 
 I am particularly interested in enterprise applications, document intelligence, archival systems, and working with large datasets.
 
 [LinkedIn](https://www.linkedin.com/in/abhinav-srivastava-023619205/) · [LeetCode](https://leetcode.com/u/2005212/) · [Email](mailto:as9801233442@gmail.com)
+
+## Contribution snake
+
+![GitHub contribution grid snake animation](https://raw.githubusercontent.com/jaywyawhare/jaywyawhare/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub contribution grid snake animation](https://raw.githubusercontent.com/jaywyawhare/jaywyawhare/output/github-contribution-grid-snake.svg#gh-light-mode-only)
